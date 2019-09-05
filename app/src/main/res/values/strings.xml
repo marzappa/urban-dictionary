@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+
+    <string name="search_hint_text">Type any word</string>
+    <string name="empty_result_text">Unable to obtain the data. Please try again with valid input.</string>
+    <string name="no_internet_message">Unable to connect. Please check your internet.</string>
+    <string name="generic_error_text">Something went wrong. Please try again later.</string>
+</resources>
